@@ -1,6 +1,9 @@
 # Sentence To Sentence Semantic Similarity
  A Natural Language Processing project of a classifier model to predict which of the provided pairs of Quora questions contain two questions with the same meaning.
  
+## Data Link 
+https://www.kaggle.com/c/quora-question-pairs
+ 
 ## Acknowledgment
 <h4>Presented by:</h4>
 <ul>
@@ -13,5 +16,3 @@
    
 </ul>
 
- ## Data Link 
- https://www.kaggle.com/c/quora-question-pairs
