@@ -12,7 +12,7 @@ https://www.kaggle.com/c/quora-question-pairs
   <li> <a href="https://github.com/Rana-Rabie">Rana Rabie</a>
   <li> <a href="https://github.com/LamaElMalatawy">Lama El Malatawy</a>
   <li> <a href="https://github.com/FarahEhab">Farah Ehab</a>
-  <li> Rowym Mohamed
+  <li> <a href="https://github.com/rowym">Rowym Mohamed</a>
    
 </ul>
 
